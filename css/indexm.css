@@ -98,7 +98,7 @@ html {font-size: 100px; /*DESW:640*960*/}
 .page5 .Bg img:nth-child(3){bottom:0;left:0;}
 .page5 .Bg img:nth-child(4){bottom:0;right:0;}
 #page5 .Bg img:nth-child(even){-webkit-animation: fadeInRight 1s linear 0s 1 both;animation: fadeInRight 1s linear 0s 1 both;}
-#page5 .Bg img:nth-child(odd){-webkit-animation: fadeInRight 1s linear 0s 1 both;animation: fadeInLeft 1s linear 0s 1 both;}
+#page5 .Bg img:nth-child(odd){-webkit-animation: fadeInLeft 1s linear 0s 1 both;animation: fadeInLeft 1s linear 0s 1 both;}
 .page5 .img{position: absolute;z-index:10;top:0.6rem;left:2.2rem;}
 .page5 .img img{height:2rem;width:2rem;opacity: 0;}
 #page5 .img img{-webkit-animation: zoomIn 1.2s linear 0s 1 both;animation: zoomIn 1.2s linear 0s 1 both;opacity:1;}
