@@ -26,7 +26,7 @@ html {font-size: 100px; /*DESW:640*960*/}
 #page2 .Bg img{-webkit-animation: rollIn 1s linear 0s 1 both;animation: rollIn 1s linear 0s 1 both;}
 .page2 .cont{position: absolute;z-index: 10;width:100%;height:100%;}
 .page2 .cont img{margin:0.6rem auto 0;display: block;width:2.8rem;border-radius: 50%;opacity: 0;}
-.page2 .cont p{width:100% ;height:.4rem;line-height: .4rem;text-align: center;font-size: 0.30rem;color:#FFF;margin:1rem auto 0.5rem;opacity: 0;}
+.page2 .cont p{width:100% ;height:.4rem;line-height: .4rem;text-align: center;font-size: 0.30rem;color:#FFF;margin:.6rem auto 0.2rem;opacity: 0;}
 .page2 .cont .detail{width: 90%;overflow:hidden;margin:0 auto;opacity: 0;}
 .page2 .cont .detail li{color:#FFF;font-size: .26rem;height:.8rem;line-height: .8rem;text-align: center;}
 #page2 .cont p{-webkit-animation: bounceInDown 2.5s linear 0s 1 both;animation: bounceInDown 2.5s linear 0s 1 both;opacity: 1;}
@@ -102,13 +102,13 @@ html {font-size: 100px; /*DESW:640*960*/}
 .page5 .img{position: absolute;z-index:10;top:0.6rem;left:2.2rem;}
 .page5 .img img{height:2rem;width:2rem;opacity: 0;}
 #page5 .img img{-webkit-animation: zoomIn 1.2s linear 0s 1 both;animation: zoomIn 1.2s linear 0s 1 both;opacity:1;}
-.page5 .content{position: absolute;z-index:10;top:3rem;left:0;width:100%;}
+.page5 .content{position: absolute;z-index:10;top:2.9rem;left:0;width:100%;}
 .page5 .content img{display: block;width:5rem;height:1rem;opacity: 0;margin-left:.6rem;}
 #page5 .content img,#page5 .content .t-1,#page5 .content .t-2,#page5 .content .t-3,#page5 .content .t-4,#page5 .content .t-5,#page5 .content .t-6{-webkit-animation: zoomInUp 1.5s linear 0s 1 both;animation: zoomInUp 1.5s linear 0s 1 both;opacity: 1;}
-.page5 .content .t-1{width:1.6rem;height:1.6rem;line-height:0.5rem;opacity: 0;padding-top:.4rem;box-sizing:border-box;text-align:center;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.32rem;position: absolute;left:2.5rem;top:1.3rem;border-radius: 50%;}
-.page5 .content .t-2{width:1.6rem;height:2rem;line-height:0.6rem;opacity: 0;text-align:center;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.4rem;position: absolute;left:2.5rem;top:3.1rem;border-radius: 10%;padding-top:.4rem;box-sizing:border-box;}
-.page5 .content .t-3{width:.6rem;height:2rem;text-align:center;opacity: 0;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.34rem;position: absolute;left:2.4rem;top:5.4rem;border-radius: 10%;padding-top:.2rem;}
-.page5 .content .t-4{width:.6rem;height:2rem;text-align:center;opacity: 0;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.34rem;position: absolute;left:3.5rem;top:5.4rem;border-radius: 10%;padding-top:.2rem;}
+.page5 .content .t-1{width:1.6rem;height:1.6rem;line-height:0.5rem;opacity: 0;padding-top:.4rem;box-sizing:border-box;text-align:center;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.32rem;position: absolute;left:2.5rem;top:1rem;border-radius: 50%;}
+.page5 .content .t-2{width:1.6rem;height:2rem;line-height:0.6rem;opacity: 0;text-align:center;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.4rem;position: absolute;left:2.5rem;top:2.8rem;border-radius: 10%;padding-top:.4rem;box-sizing:border-box;}
+.page5 .content .t-3{width:.6rem;height:2rem;text-align:center;opacity: 0;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.34rem;position: absolute;left:2.4rem;top:5rem;border-radius: 10%;padding-top:.2rem;}
+.page5 .content .t-4{width:.6rem;height:2rem;text-align:center;opacity: 0;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.34rem;position: absolute;left:3.5rem;top:5rem;border-radius: 10%;padding-top:.2rem;}
 .page5 .content .t-5{width:.6rem;height:1.4rem;text-align:center;opacity: 0;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.4rem;position: absolute;left:1.6rem;top:3.1rem;border-radius: 10%;padding-top:.2rem;}
 .page5 .content .t-6{width:.6rem;height:1.4rem;text-align:center;opacity: 0;color:rgb(12, 82, 158);background: rgba(255,255,255,0.6) no-repeat;font-size:0.4rem;position: absolute;left:4.4rem;top:3.1rem;border-radius: 10%;padding-top:.2rem;}
 /*page6*/
